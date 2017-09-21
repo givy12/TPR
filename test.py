@@ -1,1 +1,2 @@
-print('Hello Moscow')
+print('Hello World')
+print('This is GIT Testing')
